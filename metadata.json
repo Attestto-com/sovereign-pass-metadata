@@ -2,7 +2,7 @@
   "name": "Sovereign Pass",
   "symbol": "SVPASS",
   "description": "Self-Sovereign Identity Credential - A non-transferable soulbound token proving verified identity. Issued after completing KYC verification.",
-  "image": "https://raw.githubusercontent.com/Attestto-com/sovereign-pass-metadata/main/sovereign-pass.png",
+  "image": "https://raw.githubusercontent.com/Attestto-com/sovereign-pass-metadata/main/sovereign-pass-512.png",
   "external_url": "https://attestto.com/sovereign-pass",
   "attributes": [
     { "trait_type": "Type", "value": "Identity Credential" },
@@ -20,7 +20,7 @@
     ],
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/Attestto-com/sovereign-pass-metadata/main/sovereign-pass.png",
+        "uri": "https://raw.githubusercontent.com/Attestto-com/sovereign-pass-metadata/main/sovereign-pass-512.png",
         "type": "image/png"
       }
     ]
